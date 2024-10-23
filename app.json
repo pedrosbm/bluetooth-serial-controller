@@ -16,6 +16,7 @@
     },
     "android": {
       "adaptiveIcon": {
+        "permissions": ["android.permission.BLUETOOTH", "android.permission.BLUETOOTH_ADMIN"],
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       }
